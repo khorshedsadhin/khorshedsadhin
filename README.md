@@ -31,16 +31,10 @@ I am a 4th-year Computer Science student at BUBT, focused on bridging the gap be
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Activity
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khorshedsadhin&show_icons=true&theme=tokyo-night&include_all_commits=true&count_private=true" alt="Sadhin's Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khorshedsadhin&layout=compact&theme=tokyo-night&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=khorshedsadhin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+![GitHub followers](https://img.shields.io/github/followers/khorshedsadhin?style=for-the-badge&logo=github&label=Followers)
+![GitHub User's stars](https://img.shields.io/github/stars/khorshedsadhin?style=for-the-badge&logo=github&label=Stars)
 
 ---
 
