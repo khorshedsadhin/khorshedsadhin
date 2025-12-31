@@ -1,26 +1,21 @@
-# Hi there, I'm Khorshed Sadhin 👋
+# Hey, I'm Sadhin 👋
 
-### Frontend Specialist | Aspiring Full-Stack Engineer | Open Source Enthusiast
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-success?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/github/followers/khorshedsadhin?label=Follow&style=social" alt="Followers">
-</p>
+### I build stuff for the web. Mostly frontend, sometimes backend.
 
 ---
 
 ### ⚡ About Me
 
-I am a 4th-year Computer Science student at BUBT, focused on bridging the gap between high-performance frontend interfaces and scalable backend systems. Currently, I am specializing in the **MERN Stack** and **Next.js** to build user-centric web applications.
+CSE student @ BUBT (final year). I spend most of my time breaking things and then fixing them — that's basically web development, right?
 
-- 🔭 **Currently Building:** A high-traffic Tourism Platform with Next.js 14.
-- 🎓 **Education:** B.Sc. in Computer Science & Engineering (Final Year).
-- 🛠️ **Core Philosophy:** Writing clean, maintainable code that solves real-world problems.
-- 💬 **Ask me about:** React, JavaScript performance, or UI/UX design.
+- 🔭 **Currently:** Building a tourism website with Next.js
+- 🧠 **Learning:** Backend stuff with Node.js (it's going okay)
+- 💻 **I like:** Writing code that actually works on the first try (rare)
+- ☕ **Fuel:** Coffee and Stack Overflow
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Tech I Use
 
 | Category      | Tools & Technologies                                                                                                                                                                                                                                                                                                                                                                                                         |
 | :------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -39,12 +34,16 @@ I am a 4th-year Computer Science student at BUBT, focused on bridging the gap be
 
 ### 🤝 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/khorshedsadhin/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Khorshed Sadhin LinkedIn" /></a>
-<a href="mailto:khorshedsadhin@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="khorshedsadhin@gmail.com" /></a>
-<a href="https://yourportfolio.com" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=reactreceiver&logoColor=white" alt="Portfolio" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khorshedsadhin/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khorshedsadhin@gmail.com)
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i> – Cory House
-</p>
+---
+
+```javascript
+while (alive) {
+	eat();
+	sleep();
+	code();
+	repeat();
+}
+```
