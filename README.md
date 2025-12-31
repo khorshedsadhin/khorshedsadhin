@@ -41,15 +41,18 @@ I'm a passionate web developer and a 4th-year Computer Science & Engineering stu
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khorshedsadhin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khorshedsadhin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=khorshedsadhin&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
 </p>
 
+---
+
+### 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=khorshedsadhin&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khorshedsadhin&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
