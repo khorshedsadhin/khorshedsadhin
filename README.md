@@ -31,10 +31,9 @@ I am a 4th-year Computer Science student at BUBT, focused on bridging the gap be
 
 ---
 
-### 📊 GitHub Activity
+### � Contribution Graph (This Month)
 
-![GitHub followers](https://img.shields.io/github/followers/khorshedsadhin?style=for-the-badge&logo=github&label=Followers)
-![GitHub User's stars](https://img.shields.io/github/stars/khorshedsadhin?style=for-the-badge&logo=github&label=Stars)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=khorshedsadhin&theme=tokyo-night&hide_border=true)
 
 ---
 
