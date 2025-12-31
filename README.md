@@ -1,6 +1,6 @@
 ## Hi, I'm Sadhin 👋
 
-### Frontend Developer | Aspiring Full Stack Developer
+**Khorshed Sadhin** — Frontend Developer | Aspiring Full Stack Developer
 
 ---
 
@@ -42,11 +42,9 @@ I'm a passionate web developer and a 4th-year Computer Science & Engineering stu
 
 ---
 
-### Contribution Graph
+### 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khorshedsadhin&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=khorshedsadhin&theme=tokyo-night&hide_border=true)
 
 ---
 
