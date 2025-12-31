@@ -1,54 +1,64 @@
-## Hi, I'm Sadhin 👋
+# Hi there, I'm Khorshed Sadhin 👋 
+### Frontend Specialist | Aspiring Full-Stack Engineer | Open Source Enthusiast
 
-**Khorshed Sadhin** — Frontend Developer | Aspiring Full Stack Developer
-
----
-
-### 🧑‍💻 About Me
-
-I'm a passionate web developer and a 4th-year Computer Science & Engineering student at BUBT. I enjoy building modern, responsive websites and constantly exploring new technologies. Currently, I'm strengthening my frontend skills while expanding into backend development with Node.js. I believe in writing clean code and creating meaningful user experiences.
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-success?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/github/followers/khorshedsadhin?label=Follow&style=social" alt="Followers">
+</p>
 
 ---
 
-### 🔭 What I'm Currently Working On
+### ⚡ About Me
+I am a 4th-year Computer Science student at BUBT, focused on bridging the gap between high-performance frontend interfaces and scalable backend systems. Currently, I am specializing in the **MERN Stack** and **Next.js** to build user-centric web applications.
 
-- 🌐 Building a **tourism website**
-- 📚 Exploring **Next.js** and server-side rendering
-- 🛠️ Improving my backend development skills with **Node.js**
-
----
-
-### 🛠️ Skills & Technologies
-
-#### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-#### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- 🔭 **Currently Building:** A high-traffic Tourism Platform with Next.js 14.
+- 🎓 **Education:** B.Sc. in Computer Science & Engineering (Final Year).
+- 🛠️ **Core Philosophy:** Writing clean, maintainable code that solves real-world problems.
+- 💬 **Ask me about:** React, JavaScript performance, or UI/UX design.
 
 ---
 
-### 📈 Contribution Graph
+### 🛠️ Technical Arsenal
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=khorshedsadhin&theme=tokyo-night&hide_border=true)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=flat-square) |
+| **Dev Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square) |
+
+---
+
+### 📊 GitHub Insights
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khorshedsadhin&show_icons=true&theme=tokyo-night&include_all_commits=true&count_private=true" alt="Sadhin's Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khorshedsadhin&layout=compact&theme=tokyo-night&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+#### [Tourism Website Name]
+*A comprehensive platform for travel enthusiasts featuring dynamic routing and booking.*
+- **Tech Stack:** Next.js, Tailwind CSS, Node.js, MongoDB.
+- **Key Feature:** Optimized image loading and SEO-friendly server-side rendering.
+- [🔗 View Repository](https://github.com/khorshedsadhin) | [🌐 Live Demo](#)
+
+#### [Secondary Project Name]
+*A brief one-sentence description of the problem this project solves.*
+- **Tech Stack:** React, Firebase, CSS Modules.
+- [🔗 View Repository](https://github.com/khorshedsadhin)
 
 ---
 
 ### 🤝 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/khorshedsadhin/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Khorshed Sadhin LinkedIn" /></a>
+<a href="mailto:khorshedsadhin@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="khorshedsadhin@gmail.com" /></a>
+<a href="https://yourportfolio.com" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=reactreceiver&logoColor=white" alt="Portfolio" /></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khorshedsadhin/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khorshedsadhin@gmail.com)
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i> – Cory House
+</p>
