@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Khorshed Sadhin 👋</h1>
-<h3 align="center">Frontend Developer | Aspiring Full Stack Developer</h3>
+## Hi, I'm Sadhin 👋
+
+### Frontend Developer | Aspiring Full Stack Developer
 
 ---
 
@@ -41,19 +42,7 @@ I'm a passionate web developer and a 4th-year Computer Science & Engineering stu
 
 ---
 
-### 🚀 Featured Projects
-
-| Project                                                             | Description                                            | Tech Stack              |
-| ------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------- |
-| [Tourism Website](https://github.com/khorshedsadhin/YOUR_REPO_NAME) | A tourism website with booking features                | React, Node.js, MongoDB |
-| [Desktop App](https://github.com/khorshedsadhin/YOUR_REPO_NAME)     | A Python desktop application with database integration | Python, MySQL           |
-| [Portfolio](https://github.com/khorshedsadhin/YOUR_REPO_NAME)       | Personal portfolio website                             | HTML, CSS, JavaScript   |
-
-> 💡 _Feel free to explore my repositories for more projects!_
-
----
-
-### 📈 Contribution Graph
+### Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khorshedsadhin&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
@@ -63,6 +52,5 @@ I'm a passionate web developer and a 4th-year Computer Science & Engineering stu
 
 ### 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khorshedsadhin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khorshedsadhin/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khorshedsadhin@gmail.com)
