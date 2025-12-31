@@ -41,11 +41,15 @@ I'm a passionate web developer and a 4th-year Computer Science & Engineering stu
 
 ---
 
-### 🏆 GitHub Trophies
+### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khorshedsadhin&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
-</p>
+| Project                                                             | Description                                            | Tech Stack              |
+| ------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------- |
+| [Tourism Website](https://github.com/khorshedsadhin/YOUR_REPO_NAME) | A tourism website with booking features                | React, Node.js, MongoDB |
+| [Desktop App](https://github.com/khorshedsadhin/YOUR_REPO_NAME)     | A Python desktop application with database integration | Python, MySQL           |
+| [Portfolio](https://github.com/khorshedsadhin/YOUR_REPO_NAME)       | Personal portfolio website                             | HTML, CSS, JavaScript   |
+
+> 💡 _Feel free to explore my repositories for more projects!_
 
 ---
 
@@ -62,9 +66,3 @@ I'm a passionate web developer and a 4th-year Computer Science & Engineering stu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khorshedsadhin)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khorshedsadhin&color=blueviolet&style=flat-square" alt="Profile Views"/>
-</p>
