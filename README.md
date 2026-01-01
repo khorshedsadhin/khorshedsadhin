@@ -39,11 +39,6 @@ CSE student @ BUBT (final year). I spend most of my time breaking things and the
 
 ---
 
-```javascript
-while (alive) {
-	eat();
-	sleep();
-	code();
-	repeat();
-}
-```
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i> – Cory House
+</p>
