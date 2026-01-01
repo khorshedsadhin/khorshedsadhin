@@ -26,7 +26,7 @@ CSE student @ BUBT (final year). I spend most of my time breaking things and the
 
 ---
 
-### 📈 Contribution Graph (This Month)
+### 📈 Contribution Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=khorshedsadhin&theme=tokyo-night&hide_border=true)
 
