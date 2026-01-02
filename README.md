@@ -37,8 +37,3 @@ CSE student @ BUBT (final year). I spend most of my time breaking things and the
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khorshedsadhin/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khorshedsadhin@gmail.com)
 
----
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i> – Cory House
-</p>
